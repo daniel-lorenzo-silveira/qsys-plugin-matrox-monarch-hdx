@@ -1,6 +1,6 @@
 # Q-SYS Plugin | Matrox Monarch HDX Dual Encoder Control
 
-## 🚀 Project Overview
+##  Project Overview
 
 This plugin provides **centralized control and monitoring** for the **Matrox Monarch HDX** dual-encoder within the Q-SYS ecosystem. Designed for professional AV environments, this solution allows independent management of both encoders (ENC1 and ENC2), supporting simultaneous or individual control of Recording and Streaming (RTMP/RTSP) tasks.
 
