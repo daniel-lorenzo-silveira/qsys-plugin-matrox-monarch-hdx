@@ -12,7 +12,7 @@ The plugin features a **Resilient Communication Engine** with smart retry logic 
 * **Smart Visual Feedback:** * **Active States:** Recording/Streaming activity is indicated by pulsating colors (Blinking logic).
     * **Connectivity Semaphore:** HTTP status uses a Green/Yellow/Red logic for instant network diagnostics.
 * **High Resilience:** Configurable `MaxRetries` and `PollingInterval` to handle network instability.
-* **Modern API Handling:** Secure HTTPS communication using dynamic `.Legend` rendering for a clean and reliable UI.
+* **Modern API Handling:** Secure HTTPS communication for a clean and reliable UI.
 
 ---
 
