@@ -66,7 +66,7 @@ The plugin uses an intuitive color-coding system for immediate operator awarenes
 ## 🛠️ Technical Details
 * **Protocol:** HTTPS GET requests via `HttpClient`.
 * **Data Parsing:** Lua Pattern Matching to extract real-time data from Matrox SDK strings.
-* **UI Engine:** Dynamic manipulation of object properties (`Color`, `Style`, `Legend`).
+* **UI Engine:** Dynamic manipulation of object properties (`Color`, `Style`).
 
 ---
 
